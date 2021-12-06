@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @azizbhy *aziz bel hadj yahia*
-- 👀 I’m interested in a summer internship 
-- 🌱 I’m currently majoring in web developement 
+- 👀 I'm a software engineering student , looking for an end of studies internship
+- 🌱 I’m currently majoring in web developement and i enjoy working on devops
 - 📫 How to reach me *aziz.belhadjyahia@esprit.tn*
